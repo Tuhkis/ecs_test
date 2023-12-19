@@ -1,0 +1,6 @@
+[submodule "source/sr"]
+	path = source/sr
+	url = https://github.com/tuhkis/simple-renderer
+[submodule "source/glfw_ez"]
+	path = source/glfw_ez
+	url = https://github.com/tuhkis/glfw-ez
